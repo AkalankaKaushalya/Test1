@@ -1,4 +1,4 @@
 <?php
 
-echo "Gothama Thero"
+echo "Gothama Thero";
 ?>
